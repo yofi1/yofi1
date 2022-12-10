@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yofi1
-- 👀 I’m interested in making the world safer cyberly abap (as best as possible).
-- 🌱 I’m currently learning Google Cloud.
-- 💞️ I’m looking to collaborate on GCP platform.
+- 👀 I’m interested in contributing to a safer world cyberly.
+- 🌱 I’m currently continuing to learn Google Cloud.
+- 💞️ I’m looking to collaborate on the GCP platform.
 - 📫 How to reach me ...
 
 <!---
